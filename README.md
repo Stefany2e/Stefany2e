@@ -2,7 +2,7 @@
 
 Meu nome é Stefany 
 
-Estou estudando na [Alura] (https://www.alra.com.br)
+Estou estudando na [Alura] (https://www.alura.com.br)
 Esto aprendendo linguagem de programação
 
 
